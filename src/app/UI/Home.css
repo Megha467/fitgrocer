@@ -1,0 +1,14 @@
+.card_text{
+font-family: Poppins;
+font-size: 14px;
+font-weight: 500;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: left;
+color: black;
+}
+
+.card_price{
+    display: flex;
+    justify-content: space-between;
+}

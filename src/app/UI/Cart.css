@@ -1,0 +1,12 @@
+.main_container{
+    margin-top: 1%;
+}
+
+.checkout{
+    background-color: #E74C1B;
+    border-radius: 50px;
+    height: 40px;
+    color: white;
+    /* width: 20%; */
+    margin-top: 6%;
+}

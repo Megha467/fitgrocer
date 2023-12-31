@@ -1,0 +1,25 @@
+.checkout_heading{
+margin-top: 4%;
+font-size: 25px;
+font-weight: 600;
+text-align: center;
+}
+
+.checkout_text{
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+color: #A1A1A1;
+}
+
+.return_home{
+    background-color: #E74C1B;
+    border-radius: 50px;
+   
+    color: white;
+    padding: 1%;
+    margin-top: 1%;
+}
